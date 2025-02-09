@@ -9,3 +9,6 @@ Helpful Links
 =============
 
 - [C / C++ API Reference](https://en.cppreference.com/w/)
+- [C / C++ Projects](https://github.com/practical-tutorials/project-based-learning#cc)
+- [Arrays & Pointers](https://github.com/jflaherty/ptrtut13)
+- [8 Great Books About Data Structures & Algorithms](https://www.tableau.com/learn/articles/books-about-data-structures-algorithms)
