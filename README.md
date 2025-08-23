@@ -17,6 +17,6 @@ Helpful Links
 Conventions
 ===========
 
-snake_case for everything
-SCREAMING_SNAKE_CASE for macros
-typedefs should suffix with `_t`
+- snake_case for everything
+- SCREAMING_SNAKE_CASE for macros
+- typedefs should suffix with `_t`
